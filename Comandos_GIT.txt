@@ -1,0 +1,7 @@
+git checkout -b angel-mendez main # Crea una rama a partir de main
+git pull #Actualiza lo que esta en repositorio
+git clone URL #Para clonar un repositorio
+git add ARCHIVO #Agregar archivo que vamos a cargar al repositorio
+git commit - m "COMENTARIO" #Para guardar los cambios 
+git merge --abort #Para descartar merge
+git push origin rama #Para subir los cambios al repositorio
