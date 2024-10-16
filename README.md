@@ -1,10 +1,48 @@
 # workshop1
-dennis alonzo by Git
-Agregamos líneas adicionales.
-rueba Workshop 1.
-Se agrega nueva linea
-Otra linea 
-Agregando otra linea
-Colocando otra linea
-Angel Mendez
-agregado hoy ultima vs.
+
+## Comandos
+COMANDO PARA INICIALIZAR UNA CARPETA COMO REPOSITORIO DE GIT
+git init
+ 
+COMANDO PARA SABER EL ESTADO DEL REPOSITORIO LOCAL
+git status
+ 
+COMANDO PARA AGREGAR ARCHIVOS Y/O CARPETAS DENTRO DEL REPOSITORIO LOCAL AL PROYECTO
+git add
+ 
+PARA AGREGAR UN ARCHIVO
+git add NOMBRE_ARCHIVO1
+ 
+PARA AGREGAR VARIOS ARCHIVOS
+git add ARCHIVO1 ARCHIVO2 DIR/ DIR2/
+ 
+PARA AGREGAR TODOS LOS ARCHIVOS O CARPETAS
+git add .
+git add --all
+ 
+COMANDO COMPLEMENTARIO CON git add PARA CONFIRMAR LA ADICION DE ARCHIVOS AL PROYECTO  
+git commit -m  "Descripcion de los cambios"
+ 
+COMANDO PARA SUBIR LOS CAMBIOS AL REPOSITORIO REMOTO
+git push origin
+ 
+COMANDO PARA VER EL HISTORIAL DE CAMBIOS
+git log
+ 
+COMANDO PARA VER EL HISTORIAL DE CAMBIOS Y LOS ARCHIVOS QUE SE MODIFICARON
+git log --name-status
+ 
+COMANDO PARA SABER SI NO SE HAN SUBIDO CAMBIOS AL REPOSITORIO REMOTO
+git log @{u}..
+ 
+COMANDO PARA CLONAR UN REPOSITORIO REMOTO (DE GITHUB)
+git clone https://github.com/improving-knowledge/workshop1
+
+REGRESAR A UNA VERSION ANTERIOR
+git reset HEAD~1
+
+CAMBIAR DE RAMA
+git checkout dev
+
+PARA DESCARTAR LOS CAMBIOS LOCALES:
+git stash
