@@ -1,6 +1,15 @@
-git init 
+git init
+git clone url
 git add .
-git commit -m "prueba git"
 git config --global user.name ""
 git config --global user.email gustavoa.oliva@claro.com.gt
-git status
+git commit -m "prueba git"
+
+
+--git pull para actualizar
+
+git branch nombrerama
+git checkout gustavo-oliva
+git add .
+git commit -m ""
+git push origin gustavo-oliva
