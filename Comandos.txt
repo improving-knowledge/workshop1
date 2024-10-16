@@ -1,0 +1,6 @@
+git init 
+git add .
+git commit -m "prueba git"
+git config --global user.name ""
+git config --global user.email gustavoa.oliva@claro.com.gt
+git status
