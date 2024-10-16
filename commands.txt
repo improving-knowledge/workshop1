@@ -1,0 +1,31 @@
+SESION 1
+
+git init
+git status
+git add NOMBRE
+git commit -m  "Descripcion"
+git log --name-status
+git add ARCHIVO
+git add ARCHIVO1 ARCHIVO2 DIR/
+git add .
+git add --all
+git log @{u}..
+git push origin -- Para subir cambios al repositorio remoto.
+
+SESION 2
+
+Crear nueva rama
+git checkout -b Christian_Rivas
+
+Crear archivo
+> Comandos.txt
+
+Cambiarme a la rama Christian_Rivas:
+ 
+git checkout Christian_Rivas
+
+PARA DESCARTAR LOS CAMBIOS LOCALES:
+ 
+git stash
+
+git merge --abort
