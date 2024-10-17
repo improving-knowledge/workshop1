@@ -24,3 +24,8 @@ git log
 ```Shell
 git merge -s recursive -X theirs main
 ```
+
+#### Cambiar el nombre de los archivos
+```Shell
+git mv file_from file to
+```
