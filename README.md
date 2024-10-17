@@ -29,3 +29,7 @@ git merge -s recursive -X theirs main
 ```Shell
 git mv file_from file to
 ```
+#### Para cambiar a una rama
+```Shell
+git checkout angel-mendez
+```
