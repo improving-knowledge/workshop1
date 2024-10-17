@@ -17,3 +17,7 @@ git pull
 ```Shell
 git stash
 ```
+#### COMANDO PARA VER EL HISTORIAL DE CAMBIOS
+```Shell
+git log
+```
