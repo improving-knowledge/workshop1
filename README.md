@@ -7,4 +7,7 @@
 ```Shell
 git clone git@github.com:improving-knowledge/workshop1.git
 ```
-
+#### MEPP
+```Shell
+git merge -s recursive -X theirs main
+```
