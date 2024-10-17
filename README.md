@@ -31,3 +31,24 @@ git status
 
 Comando para subir los cambios al repositorio
 git push origin
+
+Comando para subir los cambios y vincular el repositorio local con el remoto
+git push --set-upstream origin osmar
+
+Comando para almacenar temporalmente los cambios sin enviarlos al repositorio remoto
+git stash
+
+Comando para deshacer el merge
+git merge --abort
+
+Comando para deshacer los cambios y volver a un commit anterior
+git reset HEAD~1
+
+Comando para descargar todas las actualizaciones del repositorio remoto al local
+git pull
+
+Comando para ver el historial de cambios
+git log
+
+Comando para ver el historial de cambios con mas detalle
+git log --name-status
