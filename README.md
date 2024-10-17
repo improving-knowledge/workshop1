@@ -7,3 +7,8 @@
 ```Shell
 git clone git@github.com:improving-knowledge/workshop1.git
 ```
+
+#### Cambiar el nombre de los archivos
+```Shell
+git mv file_from file to
+```
