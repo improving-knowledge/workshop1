@@ -7,3 +7,8 @@
 ```Shell
 git clone git@github.com:improving-knowledge/workshop1.git
 ```
+
+#### Para cambiar a una rama
+```Shell
+git checkout angel-mendez
+```
