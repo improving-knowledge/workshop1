@@ -1,6 +1,15 @@
-# workshop1
+# workflow-practice
+> Repositorio de prácticas para el flujo de trabajo en Github. Claro Cenam
 
-dennis alonzo by Git
-Agregamos líneas adicionales.
-rueba Workshop 1.
-Se agrega nueva linea
+## Comandos GIT importantes:
+
+#### Para descargar un repositorio desde un servidor remoto. Ejemplo: Github.
+```Shell
+git clone git@github.com:improving-knowledge/workshop1.git
+```
+
+## Modificando Dennis
+git clone git@github.com:improving-knowledge/workshop1.git
+
+git checkout dennis_alonzo
+
