@@ -8,3 +8,12 @@
 git clone git@github.com:improving-knowledge/workshop1.git
 ```
 
+#### Para actualizar. Ejemplo: Github.
+```Shell
+git pull
+```
+
+### PARA DESCARTAR LOS CAMBIOS LOCALES:
+```Shell
+git stash
+```
