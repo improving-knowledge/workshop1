@@ -2,9 +2,9 @@
 
 >Repositorio de practica
 
-### Comandos GIT importanes:
+## Comandos GIT importanes:
 
-### COMANDO PARA VER EL HISTORIAL DE CAMBIOS
-'''Shell
+#### COMANDO PARA VER EL HISTORIAL DE CAMBIOS
+```Shell
 git log
-'''
+```
