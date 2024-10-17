@@ -7,7 +7,6 @@
 ```Shell
 git clone git@github.com:improving-knowledge/workshop1.git
 ```
-
 #### Para actualizar. Ejemplo: Github.
 ```Shell
 git pull
@@ -20,4 +19,8 @@ git stash
 #### COMANDO PARA VER EL HISTORIAL DE CAMBIOS
 ```Shell
 git log
+```
+#### MEPP
+```Shell
+git merge -s recursive -X theirs main
 ```
