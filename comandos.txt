@@ -1,8 +1,8 @@
 git init 
 git clone url  
 
-git config --global user.name ""
-git config --global user.email <>
+git config --global user.name "usuario"
+git config --global user.email <email>
 
 git pull 
 
@@ -10,5 +10,7 @@ git add .
 git commit -m "comentario"
 git push origin
 
-git branch <>
+git branch <rama>
 git checkout <rama>
+
+git push --set-upstream origin <rama> 
