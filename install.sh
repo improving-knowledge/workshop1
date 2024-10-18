@@ -2,6 +2,8 @@
 # config para hacer cambios dentro de variables de 
 # entorno de git en el local
 #
+#
+#
 echo "Hello World"
 # borrado de variables de git 
 git config --global --unset user.email
