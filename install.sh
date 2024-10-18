@@ -16,4 +16,5 @@ git config --global --add user.name name-of-person
 #
 git config --global --list
 
-echo "TO DO :) "
+echo "TO DO :) - :)"
+
